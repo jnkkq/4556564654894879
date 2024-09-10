@@ -2,13 +2,13 @@
 
 Télécharger la totalité des fichiers
 Installer Xampp / Wampp
-mettre le fichier ECF dans htdocs / web ou autres (selon votre logiciel)
+mettre le dosssier ECF dans htdocs / web ou autres (selon votre logiciel)
 Télécharger la bdd
 Créer une bdd nommé "superbowl"
 Importer la bdd
 
 -> Vous pouvez créer un utilisateur si vous le souhaitez, pour pouvoir être en mode utilisateur
-ou alors ADMIN -> LOGIN : parieur573  MDP : mdp573
+ou alors ADMIN -> LOGIN : parieur573  MDP : Mdp573
 
                   Commentateur -> LOGIN : MikeTyson MDP : MikeTyson
 
